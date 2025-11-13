@@ -1,0 +1,6 @@
+[submodule "sd-docs"]
+	path = sd-docs
+	url = git@github.com:shinoda4/sd-docs.git
+[submodule "sd-svc-auth"]
+	path = sd-svc-auth
+	url = git@github.com:shinoda4/sd-svc-auth.git
