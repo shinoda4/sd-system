@@ -7,3 +7,6 @@
 [submodule "sd-svc-gateway"]
 	path = sd-svc-gateway
 	url = git@github.com:shinoda4/sd-svc-gateway.git
+[submodule "sd-grpc-proto"]
+	path = sd-grpc-proto
+	url = git@github.com:shinoda4/sd-grpc-proto.git
