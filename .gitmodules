@@ -4,3 +4,6 @@
 [submodule "sd-svc-auth"]
 	path = sd-svc-auth
 	url = git@github.com:shinoda4/sd-svc-auth.git
+[submodule "sd-svc-gateway"]
+	path = sd-svc-gateway
+	url = git@github.com:shinoda4/sd-svc-gateway.git
